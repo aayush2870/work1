@@ -13,7 +13,7 @@ gsap.to("#nav", {
   },
 });
 
-
+// code for goto top button 
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
@@ -28,4 +28,4 @@ function topFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 }
-
+// javascript code for the scroll to top button 
