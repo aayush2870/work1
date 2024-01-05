@@ -61,6 +61,8 @@ margin-left: -150px;
 }
 #nav:hover {
 color: #f0f3f2;
+opacity: 90%;
+
 }
 #nav h4 {
 font-weight: 500;
@@ -241,6 +243,7 @@ margin: 20px;
 color: white;
 border-radius: 4%;
 }
+
 #topBtn {
 display: none;
 position: fixed;
